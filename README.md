@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img> 
-  Good to see you! I'm Jensen Lin 🌳☺︎
+  Good to see you! I'm Jensen 🌳☺︎
 </h1>
 
 # 👨‍💻 About me
