@@ -4,7 +4,7 @@
 </h1>
 
 # 👨‍💻 About me
-👨‍🎓I am a undergraduate student studying at BNU-HKBU United International College.<br><br>
+👨‍🎓I am a undergraduate student studying at Beijing Normal-Hong Kong Baptist University.<br><br>
 💻Keep Learning Computer Science Skill...🚀🏎️<br><br>
 📮:jinxin023@yeah.net
 
@@ -17,5 +17,5 @@ updating..
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JensenXLin&theme=radical&bg_color=263238&show_icons=true)
 
 <p align="center"><b>
-  ❤️Have a good day!☕️
+  ❤☕️Have a good day!
 </b><p>
