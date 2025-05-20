@@ -20,14 +20,6 @@ updating...
 [![Jensen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JensenXLin&theme=redical&bg_color=263238&title_color=FF39A9)](https://github.com/JensenXLin/github-readme-activity-graph)
 ![Jensen's GitHub stats](https://github-readme-stats.vercel.app/api?username=JensenXLin&theme=radical&bg_color=263238&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JensenXLin&theme=radical&bg_color=263238&show_icons=true)
-<p align="center"><b>
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</b><p>
   
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
   
