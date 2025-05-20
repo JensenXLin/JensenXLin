@@ -4,11 +4,11 @@
 </h1>
 
 # 👨‍💻 About me
-👨‍🎓I am a undergraduate student studying at Beijing Normal-Hong Kong Baptist University.<br><br>
-💻Keep Learning Computer Science Skill...🚀🏎️<br><br>
+👨‍🎓 I am a undergraduate student studying at Beijing Normal-Hong Kong Baptist University.<br><br>
+💻 Keep Learning Coding Skills -> **Full-Stack Developer** 🚀🏎️<br><br>
 📮:jinxin023@yeah.net
 
-# 💼My Working Experience🦾
+# 💼 My Working Experience🦾
 updating..
 
 # 📊My Github Analytics
