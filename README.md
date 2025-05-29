@@ -39,30 +39,18 @@ updating...
 </table>
 
   
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/hr.gif" />
   
 <p align="center"><b>
-  ❤☕️Have a good day!</b> <br>
-
- <table>
-<tr><td>
-<!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
-<!-- 举重 img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
-<!-- riding img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/mb.png" width="250" height="250" />
-<br>
-</td></tr>
-</table>
-
+  ❤☕️Have a good day!</b></p>
+  
+<p align="center">
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <img src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/coding.gif" />
   </picture>
+</p>
 
 <!-- just img 图片 -->
 <div>
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+<img src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/icon.png" /></div>
