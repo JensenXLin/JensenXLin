@@ -17,9 +17,27 @@ updating...
 
 
 ## 📊My Github Analytics
+<table>
+  <tr>
+     <td colspan="2">
+       
 [![Jensen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JensenXLin&theme=redical&bg_color=263238&title_color=FF39A9)](https://github.com/JensenXLin/github-readme-activity-graph)
-![Jensen's GitHub stats](https://github-readme-stats.vercel.app/api?username=JensenXLin&theme=radical&bg_color=263238&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JensenXLin&theme=radical&bg_color=263238&show_icons=true)
+      </td>
+  </tr>
+  <tr>
+    <td>
+
+  ![Jensen's GitHub stats](https://github-readme-stats.vercel.app/api?username=JensenXLin&theme=radical&bg_color=263238&show_icons=true)      
+    </td>
+        
+  <td>
+    
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JensenXLin&theme=radical&bg_color=263238&show_icons=true)    
+  </td>
+  </tr>
+  
+</table>
+
   
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
   
