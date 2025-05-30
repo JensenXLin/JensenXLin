@@ -28,7 +28,7 @@
     </td>
   </tr>
   <tr>
-    updating...
+    <td>updating...</td>
   </tr>
 </table>
 
