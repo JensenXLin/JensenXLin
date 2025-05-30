@@ -13,7 +13,17 @@
 📮: jinxin023@yeah.net
   
 ## 💼 My Working Experience🦾
-updating...
+<table>
+  <tr>
+    <td>
+      <image width="100" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/logo/BNBU_logo.JPG" />
+      <h3>Beijing Normal-Hong Kong Baptist University</h3>
+      <strong>position</strong>: Research Assistant
+      <br>
+      <strong>main contribution</strong>: build a website for <i>Scottish Literature Study Review for Scholars</i>
+    </td>
+  </tr>
+</table>
 
 
 ## 📊My Github Analytics
