@@ -16,11 +16,15 @@
 <table>
   <tr>
     <td>
-      <image width="100" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/logo/BNBU_logo.JPG" />
-      <h3>Beijing Normal-Hong Kong Baptist University</h3>
-      <strong>position</strong>: Research Assistant
+      <strong>Beijing Normal-Hong Kong Baptist University</strong>
+      <image width="120" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/logo/BNBU_logo.JPG" />
       <br>
-      <strong>main contribution</strong>: build a website for <i>Scottish Literature Study Review for Scholars</i>
+      <br>
+      <t>
+      <ul>
+        <li><strong>position</strong>: Research Assistant</li>
+        <li><strong>main contribution</strong>: build a website for <i>Scottish Literature Study Review for Scholars</i></li>
+      </ul>
     </td>
   </tr>
 </table>
