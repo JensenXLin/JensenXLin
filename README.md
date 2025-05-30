@@ -8,7 +8,7 @@
 
   
 ## 👨‍💻 About me
-<image width="200" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/Jerry.gif" />
+<image width="170" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/Jerry.gif" />
 👨‍🎓 I am a undergraduate student studying at Beijing Normal-Hong Kong Baptist University.<br><br>
 💻 Keep Learning Coding Skills -> **Full-Stack Developer** 🚀🏎️<br><br>
 📮: jinxin023@yeah.net
