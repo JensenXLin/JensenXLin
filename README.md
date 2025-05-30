@@ -12,11 +12,28 @@
 💻 Keep Learning Coding Skills -> **Full-Stack Developer** 🚀🏎️<br><br>
 📮: jinxin023@yeah.net
   
-## 💼 My Working Experience🦾
-updating...
+## 💼 Working Experience🦾
+<table>
+  <tr>
+    <td>
+      <strong>Beijing Normal-Hong Kong Baptist University</strong>
+      <image width="120" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/logo/BNBU_logo.JPG" />
+      <br>
+      <br>
+      <t>
+      <ul>
+        <li><strong>position</strong>: Research Assistant</li>
+        <li><strong>main contribution</strong>: build a website for <i>Scottish Literature Study Review for Scholars</i></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>updating...</td>
+  </tr>
+</table>
 
 
-## 📊My Github Analytics
+## 📊 Github Analytics
 <table>
   <tr>
      <td colspan="2">
