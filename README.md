@@ -8,8 +8,9 @@
 
   
 ## 👨‍💻 About me
-👨‍🎓 I am a undergraduate student studying at Beijing Normal-Hong Kong Baptist University.<br><br>
-💻 Keep Learning Coding Skills -> **Full-Stack Developer** 🚀🏎️<br><br>
+<image width="170" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/Jerry.gif" />
+👨‍🎓 I am an undergraduate student studying at Beijing Normal-Hong Kong Baptist University.<br><br>
+💻 Keep Learning Coding Skills -> <b>Full-Stack Developer</b> 🚀🏎️<br><br>
 📮: jinxin023@yeah.net
   
 ## 💼 Working Experience🦾
