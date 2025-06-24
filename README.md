@@ -29,7 +29,17 @@
     </td>
   </tr>
   <tr>
-    <td>updating...</td>
+    <td>
+      <strong>杭州分叉智能科技有限公司</strong>
+      <image width="120" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/logo/yingdao.jpeg" />
+      <br>
+      <br>
+      <t>
+      <ul>
+        <li><strong>position</strong>: Python 技术支持</li>
+        <li><strong>main contribution</strong>: updating</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
