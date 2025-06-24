@@ -31,7 +31,7 @@
   <tr>
     <td>
       <strong>杭州分叉智能科技有限公司</strong>
-      <image width="120" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/yingdao.jpeg" />
+      <image width="120" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/logo/yingdao.jpeg" />
       <br>
       <br>
       <t>
