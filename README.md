@@ -9,15 +9,14 @@
   
 ## 👨‍💻 About me
 <image width="170" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/Jerry.gif" />
-👨‍🎓 I am an undergraduate student studying at Beijing Normal-Hong Kong Baptist University.<br><br>
 💻 Keep Learning Coding Skills -> <b>Full-Stack Developer</b> 🚀🏎️<br><br>
-📮: jinxin023@yeah.net
+📮: jinxin023@yeah.net<br><br>
   
 ## 💼 Working Experience🦾
 <table>
   <tr>
     <td>
-      <strong>Beijing Normal-Hong Kong Baptist University</strong>
+      <strong>Beijing Normal-Hong Kong Baptist University 北师香港浸会大学</strong>
       <image width="120" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/logo/BNBU_logo.JPG" />
       <br>
       <br>
