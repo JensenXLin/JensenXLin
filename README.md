@@ -13,7 +13,7 @@
 📮: jinxin023@yeah.net<br><br>
   
 ## 💼 Working Experience🦾
-<table>
+<table align="center">
   <tr>
     <td>
       <strong>Beijing Normal-Hong Kong Baptist University 北师香港浸会大学</strong>
