@@ -36,7 +36,7 @@
       <t>
       <ul>
         <li><strong>position</strong>: Python 技术支持</li>
-        <li><strong>main contribution</strong>: updating</li>
+        <li><strong>main contribution</strong>: solve the daily technical problems of the product.</li>
       </ul>
     </td>
   </tr>
