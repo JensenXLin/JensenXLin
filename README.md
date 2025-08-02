@@ -11,6 +11,7 @@
 <image width="170" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/Jerry.gif" />
 💻 Keep Learning Coding Skills -> <b>Front-end Developer</b> 🚀🏎️<br><br>
 📮: jinxin023@yeah.net<br><br>
+🎯: building personal technical blog website...
   
 ## 💼 Working Experience🦾
 <table align="center" >
