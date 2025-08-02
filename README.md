@@ -13,30 +13,29 @@
 📮: jinxin023@yeah.net<br><br>
   
 ## 💼 Working Experience🦾
-<table align="center">
+<table align="center" >
   <tr>
     <td>
-      <strong>Beijing Normal-Hong Kong Baptist University 北师香港浸会大学</strong>
-      <image width="120" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/logo/BNBU_logo.JPG" />
+      <strong>杭州分叉智能科技有限公司</strong>
+      <image width="150" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/logo/yingdao.jpeg" />
       <br>
       <br>
-      <t>
       <ul>
-        <li><strong>position</strong>: Research Assistant</li>
-        <li><strong>main contribution</strong>: build a website for <i>Scottish Literature Study Review for Scholars</i></li>
+        <li><strong>position</strong>: Python 技术支持</li>
+        <li><strong>main contribution</strong>: solve the daily technical problems of the product.</li>
+        <br>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>
-      <strong>杭州分叉智能科技有限公司</strong>
-      <image width="120" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/logo/yingdao.jpeg" />
+    <td width="1000px">
+      <strong>Beijing Normal-Hong Kong Baptist University 北师香港浸会大学</strong>
+      <image width="120" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/logo/BNBU_logo.JPG" />
       <br>
       <br>
-      <t>
       <ul>
-        <li><strong>position</strong>: Python 技术支持</li>
-        <li><strong>main contribution</strong>: solve the daily technical problems of the product.</li>
+        <li><strong>position</strong>: Research Assistant</li>
+        <li><strong>main contribution</strong>: build a website for <i>Scottish Literature Study Review for Scholars</i></li>
       </ul>
     </td>
   </tr>
