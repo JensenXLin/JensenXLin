@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img> 
   Good to see you! I'm Jensen 🌳☺︎
   <br>
-  <a href="www.linkedin.com/in/linjinxin"><img src="https://img.shields.io/badge/LinkedIn-领英-blue" /></a>&emsp;
+  <a href="https://www.linkedin.com/in/linjinxin"><img src="https://img.shields.io/badge/LinkedIn-领英-blue" /></a>&emsp;
   <img src="https://komarev.com/ghpvc/?username=JensenXLin&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 </h1>
 
