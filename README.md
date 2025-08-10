@@ -46,18 +46,18 @@
 ## 📊 Github Analytics
 <table>
   <tr>
-     <td colspan="2">
+     <td colspan="2" align="center">
        
 [![Jensen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JensenXLin&theme=redical&bg_color=263238&title_color=FF39A9)](https://github.com/JensenXLin/github-readme-activity-graph)
       </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
 
   ![Jensen's GitHub stats](https://github-readme-stats.vercel.app/api?username=JensenXLin&theme=radical&bg_color=263238&show_icons=true)      
     </td>
         
-  <td>
+  <td align="center">
     
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JensenXLin&theme=radical&bg_color=263238&show_icons=true)    
   </td>
