@@ -3,6 +3,7 @@
   Welcome! I'm Jensen 🌳
   <br>
   <a href="https://www.linkedin.com/in/linjinxin"><img src="https://img.shields.io/badge/LinkedIn-领英-blue" /></a>&emsp;
+  <img src="https://komarev.com/ghpvc/?username=JensenXLin&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 </h1>
 
   
