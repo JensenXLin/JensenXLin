@@ -23,7 +23,7 @@
       <br>
       <ul>
         <li><strong>position</strong>: Python 技术支持</li>
-        <li><strong>main contribution</strong>: solve the daily technical problems of the product.</li>
+        <li><strong>Location</strong>: Xuhui, Shanghai 上海市徐汇区</li>
         <br>
       </ul>
     </td>
@@ -36,7 +36,7 @@
       <br>
       <ul>
         <li><strong>position</strong>: Research Assistant</li>
-        <li><strong>main contribution</strong>: build a website for <i>Scottish Literature Study Review for Scholars</i></li>
+        <li><strong>Location</strong>: Zhuhai, Guangdong 广东省珠海市</li>
       </ul>
     </td>
   </tr>
