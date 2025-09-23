@@ -40,6 +40,18 @@
       </ul>
     </td>
   </tr>
+  <tr>
+    <td>
+      <strong>福州市电子信息集团有限公司</strong>
+      <br>
+      <br>
+      <ul>
+        <li><strong>position</strong>: Development Engineer 技术研发</li>
+        <li><strong>Location</strong>: Fuzhou, Fujian 福建省福州市</li>
+        <br>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 
