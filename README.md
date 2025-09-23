@@ -11,7 +11,7 @@
 <image width="170" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/Jerry.gif" />
 💻 Keep Learning Coding Skills 🚀🏎️<br><br>
 📮: jinxin023@yeah.net<br><br>
-🎯: building personal technical blog website...
+🛜: <a href='https://www.linjinxin.site'>Jensen's Navigator</a>
   
 ## 💼 Working Experience🦾
 <table align="center" >
