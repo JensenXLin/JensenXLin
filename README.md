@@ -24,7 +24,7 @@
       <br>
       <br>
       <ul>
-        <li><strong>position</strong>: 开发工程师</li>
+        <li><strong>position</strong>: Development Engineer 开发工程师</li>
         <li><strong>Location</strong>: Pudong, Shanghai 上海市浦东新区</li>
       </ul>
     </td>
@@ -37,7 +37,7 @@
       <image width="120" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/logo/yingdao.png" />
       <br>
       <ul>
-        <li><strong>position</strong>: Python 技术支持</li>
+        <li><strong>position</strong>: Technology Support Engineer 技术支持工程师</li>
         <li><strong>Location</strong>: Xuhui, Shanghai 上海市徐汇区</li>
         <br>
       </ul>
@@ -51,7 +51,7 @@
       <br>
       <br>
       <ul>
-        <li><strong>position</strong>: Research Assistant</li>
+        <li><strong>position</strong>: Research Assistant 研究助理</li>
         <li><strong>Location</strong>: Zhuhai, Guangdong 广东省珠海市</li>
         <br>
       </ul>
@@ -63,7 +63,7 @@
       <br>
       <br>
       <ul>
-        <li><strong>position</strong>: Development Engineer 技术研发</li>
+        <li><strong>position</strong>: Research & Development Engineer 技术研发工程师</li>
         <li><strong>Location</strong>: Fuzhou, Fujian 福建省福州市</li>
         <br>
       </ul>
