@@ -88,7 +88,7 @@
         
   <td align="center">
     
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JensenXLin&theme=radical&bg_color=263238&show_icons=true)    
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JensenXLin&theme=radical&bg_color=263238&show_icons=true&layout=donut)    
   </td>
   </tr>
   
