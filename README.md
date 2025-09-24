@@ -18,6 +18,7 @@
 <table align="center" >
   <tr>
     <td>
+      <br>
       <strong>上海金丘信息科技有限公司</strong>
       <image width="120" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/logo/GingKoo.png" />
       <br>
@@ -30,10 +31,11 @@
   </tr>
   <tr>
     <td>
+      <br>
       <strong>杭州分叉智能科技有限公司</strong>
       <br>
-      <br>
       <image width="120" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/logo/yingdao.png" />
+      <br>
       <ul>
         <li><strong>position</strong>: Python 技术支持</li>
         <li><strong>Location</strong>: Xuhui, Shanghai 上海市徐汇区</li>
@@ -43,13 +45,15 @@
   </tr>
   <tr>
     <td width="1000px">
+      <br>
       <strong>Beijing Normal-Hong Kong Baptist University 北师香港浸会大学</strong>
-      <image width="120" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/logo/BNBU_logo.JPG" />
+      <image width="100" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/logo/BNBU_logo.JPG" />
       <br>
       <br>
       <ul>
         <li><strong>position</strong>: Research Assistant</li>
         <li><strong>Location</strong>: Zhuhai, Guangdong 广东省珠海市</li>
+        <br>
       </ul>
     </td>
   </tr>
