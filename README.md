@@ -18,10 +18,22 @@
 <table align="center" >
   <tr>
     <td>
+      <strong>上海金丘信息科技有限公司</strong>
+      <image width="120" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/logo/GingKoo.png" />
+      <br>
+      <br>
+      <ul>
+        <li><strong>position</strong>: 开发工程师</li>
+        <li><strong>Location</strong>: Pudong, Shanghai 上海市浦东新区</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <strong>杭州分叉智能科技有限公司</strong>
-      <image width="150" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/logo/yingdao.jpeg" />
       <br>
       <br>
+      <image width="120" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/logo/yingdao.png" />
       <ul>
         <li><strong>position</strong>: Python 技术支持</li>
         <li><strong>Location</strong>: Xuhui, Shanghai 上海市徐汇区</li>
