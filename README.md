@@ -47,7 +47,7 @@
     <td width="1000px">
       <br>
       <strong>Beijing Normal-Hong Kong Baptist University 北师香港浸会大学</strong>
-      <image width="100" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/logo/BNBU_logo.JPG" />
+      <image width="100" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/logo/BNBU.png" />
       <br>
       <br>
       <ul>
