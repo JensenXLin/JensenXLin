@@ -3,6 +3,7 @@
   Welcome! I'm Jensen 🌳
   <br>
   <a href="https://www.linkedin.com/in/linjinxin"><img src="https://img.shields.io/badge/LinkedIn-领英-blue" /></a>&emsp;
+  <a href="https://www.linjinxin.site"><img src="https://img.shields.io/badge/Jensen's Navigator-个人导航页-purple" /></a>&emsp;
   <img src="https://komarev.com/ghpvc/?username=JensenXLin&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 </h1>
 
@@ -11,7 +12,7 @@
 <image width="170" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/Jerry.gif" />
 💻 Keep Learning Coding Skills 🚀🏎️<br><br>
 📮: jinxin023@yeah.net<br><br>
-🛜: <a href='https://www.linjinxin.site'>Jensen's Navigator</a>
+🔭: Focusing on <b>front-end development</b> currently
   
 ## 💼 Working Experience🦾
 <table align="center" >
