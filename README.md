@@ -12,7 +12,7 @@
 <image width="170" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/Jerry.gif" />
 💻 Keep Learning Coding Skills 🚀🏎️<br><br>
 📮: jinxin023@yeah.net<br><br>
-🔭: Focusing on <b>front-end development</b> currently
+🔭: Focusing on <b>front-end development & Quantitative Trading Strategy</b> currently
   
 ## 💼 Working Experience🦾
 <table align="center" >
