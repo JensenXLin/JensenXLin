@@ -7,6 +7,14 @@
   <img src="https://komarev.com/ghpvc/?username=JensenXLin&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 </h1>
 
+## 👨‍💻 About me
+<image width="170" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/Jerry.gif" />
+💻 Keep Learning Coding Skills 🚀🏎️<br><br>
+📮: jinxin023@yeah.net<br><br>
+🔭: Focusing on <b>front-end development & Quantitative Trading Strategy</b> currently
+
+<br>
+<br>
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -162,12 +170,6 @@
   </tr>
   
 </table>
-
-## 👨‍💻 About me
-<image width="170" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/Jerry.gif" />
-💻 Keep Learning Coding Skills 🚀🏎️<br><br>
-📮: jinxin023@yeah.net<br><br>
-🔭: Focusing on <b>front-end development & Quantitative Trading Strategy</b> currently
   
 ## 💼 Working Experience🦾
 <table align="center" >
