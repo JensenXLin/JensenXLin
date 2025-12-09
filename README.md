@@ -7,6 +7,12 @@
   <img src="https://komarev.com/ghpvc/?username=JensenXLin&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 </h1>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=6569FF&center=true&width=435&lines=%E2%98%95%EF%B8%8F+Good+morning+%E1%90%95)%E2%81%BE%E2%81%BE;%F0%9F%8C%83+Good+evening+%F0%9F%8C%87;Good+night+%F0%9F%98%B4" alt="Typing SVG" />
+  </a>
+</div>
+
 ## 👨‍💻 About me
 <image width="170" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/Jerry.gif" />
 💻 Keep Learning Coding Skills 🚀🏎️<br><br>
