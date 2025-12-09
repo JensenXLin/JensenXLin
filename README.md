@@ -83,12 +83,12 @@
   <tr>
     <td align="center">
 
-  ![Jensen's GitHub stats](https://github-readme-stats.vercel.app/api?username=JensenXLin&theme=radical&bg_color=263238&show_icons=true)      
+  ![Jensen's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=JensenXLin&theme=radical&bg_color=263238&show_icons=true)      
     </td>
         
   <td align="center">
     
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JensenXLin&theme=radical&bg_color=263238&show_icons=true&layout=donut)    
+  ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JensenXLin&theme=radical&bg_color=263238&show_icons=true&layout=donut)    
   </td>
   </tr>
   
