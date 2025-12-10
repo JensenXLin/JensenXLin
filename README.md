@@ -15,7 +15,7 @@
 <image width="170" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/Jerry.gif" />
 💻 Keep Learning Coding Skills 🚀🏎️<br><br>
 📮: jinxin023@yeah.net<br><br>
-🔭: Focusing on <b>full-stack development & Quantitative Trading Strategy</b>
+🔭: Focusing on <b>full-stack development & quantitative trading</b>
 
 <br>
 <br>
