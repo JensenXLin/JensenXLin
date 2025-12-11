@@ -187,6 +187,7 @@
       <ul>
         <li><strong>position</strong>: Development Engineer 开发工程师</li>
         <li><strong>Location</strong>: Pudong, Shanghai 上海市浦东新区</li>
+        <li><strong>Contribution</strong>: CIPS 跨境支付系统开发交付</a></li>
       </ul>
     </td>
   </tr>
@@ -200,6 +201,7 @@
       <ul>
         <li><strong>position</strong>: Technology Support Engineer 技术支持工程师</li>
         <li><strong>Location</strong>: Xuhui, Shanghai 上海市徐汇区</li>
+        <li><strong>Contribution</strong>: <a href="https://www.yingdao.com/">ShadowBot 影刀RPA</a></li>
         <br>
       </ul>
     </td>
@@ -212,8 +214,9 @@
       <br>
       <br>
       <ul>
-        <li><strong>position</strong>: Research Assistant 研究助理</li>
+        <li><strong>position</strong>: Research Assistant 项目开发研究助理</li>
         <li><strong>Location</strong>: Zhuhai, Guangdong 广东省珠海市</li>
+        <li><strong>Contribution</strong>: Constructing <a href="https://scottishlit.com">Scottish Literature Website 苏格兰文学网站</a></li>
         <br>
       </ul>
     </td>
