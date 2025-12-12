@@ -255,10 +255,15 @@
   ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JensenXLin&theme=radical&bg_color=263238&show_icons=true&layout=donut)    
   </td>
   </tr>
-  
+  <tr>
+    <td colspan="2" align="center">
+      
+![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only) 
+    </td>
+  </tr>
 </table>
 
-  
+
 <img width="200%" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/hr.gif" />
   
 <p align="center"><b>
