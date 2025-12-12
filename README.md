@@ -201,7 +201,7 @@
       <ul>
         <li><strong>position</strong>: Technology Support Engineer 技术支持工程师</li>
         <li><strong>Location</strong>: Xuhui, Shanghai 上海市徐汇区</li>
-        <li><strong>Contribution</strong>: <a href="https://www.yingdao.com/">ShadowBot 影刀RPA</a></li>
+        <li><strong>Contribution</strong>: <a href="https://www.yingdao.com/" target="_blank">ShadowBot 影刀RPA</a></li>
         <br>
       </ul>
     </td>
@@ -216,7 +216,7 @@
       <ul>
         <li><strong>position</strong>: Research Assistant 项目开发研究助理</li>
         <li><strong>Location</strong>: Zhuhai, Guangdong 广东省珠海市</li>
-        <li><strong>Contribution</strong>: Constructing <a href="https://scottishlit.com">Scottish Literature Website 苏格兰文学网站</a></li>
+        <li><strong>Contribution</strong>: Constructing <a href="https://scottishlit.com" target="_blank">Scottish Literature Website 苏格兰文学网站</a></li>
         <br>
       </ul>
     </td>
