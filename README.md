@@ -15,7 +15,7 @@
 <img width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hlam5naHd6Mmc4eWI4MDdvZm5uZjdycmZvbDFmdzlrYXdvNmVkciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/35nU79vBbeOm4/giphy.gif" />
 About me </h2>
 <image width="170" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/Jerry.gif" />
-<img width="170" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExano4dGs2ZXB2bTR2aXdwZjlyNm1jdXZ2cDA5NXY5cDI1dGtuN3VzcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" />
+<img width="150" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExano4dGs2ZXB2bTR2aXdwZjlyNm1jdXZ2cDA5NXY5cDI1dGtuN3VzcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" />
 💻 Keep Learning Coding Skills 🚀🏎️<br><br>
 📮: jinxin023@yeah.net<br><br>
 🔭: Focusing on <b>full-stack development & quantitative trading</b>
@@ -274,8 +274,8 @@ About me </h2>
     <img src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/coding.gif" />
   </picture> -->
   <picture>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhlcXA3YjV5YjVwczcyZ3o5anA3M3k2cW1ueG45MDI0b3BubGI4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i2dE5VvBNxBw4/giphy.gif" />
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWhvdDBrcHp6ZTVuaml4aHo5eXB5cXFuOTA4OThvanVoY3U4ZnkyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G2cpDFcKzAPMScb0MC/giphy.gif" />
-<img align="center" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/icon.png" />
+<img  width="45%"  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhlcXA3YjV5YjVwczcyZ3o5anA3M3k2cW1ueG45MDI0b3BubGI4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i2dE5VvBNxBw4/giphy.gif" />
+<img width="45%" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWhvdDBrcHp6ZTVuaml4aHo5eXB5cXFuOTA4OThvanVoY3U4ZnkyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G2cpDFcKzAPMScb0MC/giphy.gif" />
+<img width="100%" align="center" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/icon.png" />
   </picture>
 </p>
