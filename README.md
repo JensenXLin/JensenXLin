@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img> 
-  Welcome! I'm Jensen 🌳
+  Welcome! I'm Jensen 🌳 
   <br>
   <a href="https://www.linkedin.com/in/linjinxin"><img src="https://img.shields.io/badge/LinkedIn-领英-blue" /></a>&emsp;
   <a href="https://www.linjinxin.site"><img src="https://img.shields.io/badge/Jensen's Navigator-个人导航页-purple" /></a>&emsp;
@@ -13,9 +13,9 @@
 
 <h2>
 <img width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hlam5naHd6Mmc4eWI4MDdvZm5uZjdycmZvbDFmdzlrYXdvNmVkciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/35nU79vBbeOm4/giphy.gif" />
-About me </h2>
+About me 
+</h2>
 <image width="170" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/Jerry.gif" />
-<img width="150" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExano4dGs2ZXB2bTR2aXdwZjlyNm1jdXZ2cDA5NXY5cDI1dGtuN3VzcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" />
 💻 Keep Learning Coding Skills 🚀🏎️<br><br>
 📮: jinxin023@yeah.net<br><br>
 🔭: Focusing on <b>full-stack development & quantitative trading</b>
@@ -229,6 +229,7 @@ About me </h2>
     <td>
       <strong>福州市电子信息集团有限公司</strong>
       <br>
+      <img width="100" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExano4dGs2ZXB2bTR2aXdwZjlyNm1jdXZ2cDA5NXY5cDI1dGtuN3VzcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" />
       <br>
       <ul>
         <li><strong>position</strong>: Research & Development Engineer 技术研发工程师</li>
