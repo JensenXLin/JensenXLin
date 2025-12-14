@@ -11,8 +11,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=6569FF&center=true&vCenter=true&width=435&lines=%E2%98%95%EF%B8%8F+Good+morning+%E1%90%95)%E2%81%BE%E2%81%BE;%F0%9F%8C%83+Good+evening+%F0%9F%8C%87;Good+night+%F0%9F%98%B4" alt="Typing SVG" /></a>
 </div>
 
-## 👨‍💻 About me
+<h2>
+<img width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hlam5naHd6Mmc4eWI4MDdvZm5uZjdycmZvbDFmdzlrYXdvNmVkciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/35nU79vBbeOm4/giphy.gif" />
+About me </h2>
 <image width="170" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/Jerry.gif" />
+<img width="170" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExano4dGs2ZXB2bTR2aXdwZjlyNm1jdXZ2cDA5NXY5cDI1dGtuN3VzcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" />
 💻 Keep Learning Coding Skills 🚀🏎️<br><br>
 📮: jinxin023@yeah.net<br><br>
 🔭: Focusing on <b>full-stack development & quantitative trading</b>
@@ -176,7 +179,7 @@
 </table>
   
 ## 💼 Working Experience🦾
-<table align="center" >
+<table align="center" style="display: inline">
   <tr>
     <td>
       <br>
@@ -188,6 +191,7 @@
         <li><strong>position</strong>: Development Engineer 开发工程师</li>
         <li><strong>Location</strong>: Pudong, Shanghai 上海市浦东新区</li>
         <li><strong>Contribution</strong>: CIPS 跨境支付系统开发交付</a></li>
+        <br>
       </ul>
     </td>
   </tr>
@@ -234,9 +238,8 @@
     </td>
   </tr>
 </table>
-
-
-## 📊 Github Analytics
+        
+## 📊 Github Analytics 
 <table>
   <tr>
      <td colspan="2" align="center">
@@ -247,19 +250,15 @@
   <tr>
     <td align="center">
 
-  ![Jensen's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=JensenXLin&theme=radical&bg_color=263238&show_icons=true)      
+  ![Jensen's GitHub stats](https://github-readme-stats.vercel.app/api?username=JensenXLin&theme=radical&bg_color=263238&show_icons=true)   
     </td>
         
   <td align="center">
+  <div style="display: inline">
     
-  ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JensenXLin&theme=radical&bg_color=263238&show_icons=true&layout=donut)    
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JensenXLin&theme=radical&bg_color=263238&show_icons=true) 
+  </div>  
   </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      
-![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only) 
-    </td>
   </tr>
 </table>
 
@@ -268,14 +267,15 @@
   
 <p align="center"><b>
   ❤☕️Have a good day!</b></p>
-  
+  <br />
 <p align="center">
   <!-- knock code pictures 敲代码的图片 -->
-  <picture>
+  <!-- <picture>
     <img src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/coding.gif" />
+  </picture> -->
+  <picture>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhlcXA3YjV5YjVwczcyZ3o5anA3M3k2cW1ueG45MDI0b3BubGI4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i2dE5VvBNxBw4/giphy.gif" />
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWhvdDBrcHp6ZTVuaml4aHo5eXB5cXFuOTA4OThvanVoY3U4ZnkyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G2cpDFcKzAPMScb0MC/giphy.gif" />
+<img align="center" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/icon.png" />
   </picture>
 </p>
-
-<!-- just img 图片 -->
-<div>
-<img src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/icon.png" /></div>
