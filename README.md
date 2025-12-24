@@ -251,13 +251,13 @@ About me
   <tr>
     <td align="center">
 
-  ![Jensen's GitHub stats](https://github-readme-stats.vercel.app/api?username=JensenXLin&theme=radical&bg_color=263238)  
+  ![Jensen's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=JensenXLin&theme=radical&bg_color=263238&show_icons=true&include_all_commits=true)  
     </td>
         
   <td align="center">
   <div style="display: inline">
     
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JensenXLin&theme=radical&bg_color=263238&show_icons=true) 
+  ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JensenXLin&theme=radical&bg_color=263238&show_icons=true) 
   </div>  
   </td>
   </tr>
