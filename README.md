@@ -251,7 +251,7 @@ About me
   <tr>
     <td align="center">
 
-  ![Jensen's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=JensenXLin&theme=radical&bg_color=263238&show_icons=true&include_all_commits=true)  
+  ![Jensen's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=JensenXLin&theme=radical&bg_color=263238&show_icons=true)  
     </td>
         
   <td align="center">
