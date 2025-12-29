@@ -177,68 +177,6 @@ About me
   </tr>
   
 </table>
-  
-## 💼 Working Experience🦾
-<table align="center" style="display: inline">
-  <tr>
-    <td>
-      <br>
-      <strong>上海金丘信息科技有限公司</strong>
-      <image width="120" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/logo/GingKoo.png" />
-      <br>
-      <br>
-      <ul>
-        <li><strong>position</strong>: Development Engineer 开发工程师</li>
-        <li><strong>Location</strong>: Pudong, Shanghai 上海市浦东新区</li>
-        <li><strong>Contribution</strong>: CIPS 跨境支付系统开发交付</a></li>
-        <br>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <br>
-      <strong>杭州分叉智能科技有限公司</strong>
-      <br>
-      <image width="120" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/logo/yingdao.png" />
-      <br>
-      <ul>
-        <li><strong>position</strong>: Technology Support Engineer 技术支持工程师</li>
-        <li><strong>Location</strong>: Xuhui, Shanghai 上海市徐汇区</li>
-        <li><strong>Contribution</strong>: <a href="https://www.yingdao.com/" target="_blank">ShadowBot 影刀RPA</a></li>
-        <br>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="1000px">
-      <br>
-      <strong>Beijing Normal-Hong Kong Baptist University 北师香港浸会大学</strong>
-      <image width="100" align="right" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/logo/BNBU.png" />
-      <br>
-      <br>
-      <ul>
-        <li><strong>position</strong>: Research Assistant 项目开发研究助理</li>
-        <li><strong>Location</strong>: Zhuhai, Guangdong 广东省珠海市</li>
-        <li><strong>Contribution</strong>: Constructing <a href="https://scottishlit.com" target="_blank">Scottish Literature Website 苏格兰文学网站</a></li>
-        <br>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>福州市电子信息集团有限公司</strong>
-      <br>
-      <img width="100" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExano4dGs2ZXB2bTR2aXdwZjlyNm1jdXZ2cDA5NXY5cDI1dGtuN3VzcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" />
-      <br>
-      <ul>
-        <li><strong>position</strong>: Research & Development Engineer 技术研发工程师</li>
-        <li><strong>Location</strong>: Fuzhou, Fujian 福建省福州市</li>
-        <br>
-      </ul>
-    </td>
-  </tr>
-</table>
         
 ## 📊 Github Analytics 
 <table>
@@ -263,20 +201,20 @@ About me
   </tr>
 </table>
 
-
-<img width="200%" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/hr.gif" />
-  
+<picture>
+<img width="100%" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/hr.gif" />
+</picture>
+<br />
 <p align="center"><b>
   ❤☕️Have a good day!</b></p>
-  <br />
 <p align="center">
   <!-- knock code pictures 敲代码的图片 -->
   <!-- <picture>
     <img src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/coding.gif" />
   </picture> -->
   <picture>
-<img  width="45%"  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhlcXA3YjV5YjVwczcyZ3o5anA3M3k2cW1ueG45MDI0b3BubGI4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i2dE5VvBNxBw4/giphy.gif" />
-<img width="45%" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWhvdDBrcHp6ZTVuaml4aHo5eXB5cXFuOTA4OThvanVoY3U4ZnkyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G2cpDFcKzAPMScb0MC/giphy.gif" />
+<img  width="49%"  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhlcXA3YjV5YjVwczcyZ3o5anA3M3k2cW1ueG45MDI0b3BubGI4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i2dE5VvBNxBw4/giphy.gif" />
+<img width="49%" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWhvdDBrcHp6ZTVuaml4aHo5eXB5cXFuOTA4OThvanVoY3U4ZnkyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G2cpDFcKzAPMScb0MC/giphy.gif" />
 <img width="100%" align="center" src="https://github.com/JensenXLin/JensenXLin/blob/main/asset/image/icon.png" />
   </picture>
 </p>
